@@ -1,0 +1,24 @@
+[submodule "https:/github.com/uf-reef-avl/torque_flight"]
+	path = https:/github.com/uf-reef-avl/torque_flight
+	url = https://github.com/uf-reef-avl/reef_msgs
+[submodule "reef_msgs"]
+	path = reef_msgs
+	url = https://github.com/uf-reef-avl/reef_msgs
+[submodule "torque_flight"]
+	path = torque_flight
+	url = https://github.com/uf-reef-avl/torque_flight
+[submodule "reef_adaptive_control"]
+	path = reef_adaptive_control
+	url = https://github.com/uf-reef-avl/reef_adaptive_control
+[submodule "position_to_velocity"]
+	path = position_to_velocity
+	url = https://github.com/uf-reef-avl/position_to_velocity
+[submodule "reef_estimator"]
+	path = reef_estimator
+	url = https://github.com/uf-reef-avl/reef_estimator
+[submodule "reef_teleop"]
+	path = reef_teleop
+	url = https://github.com/uf-reef-avl/reef_teleop
+[submodule "ros_vrpn_client"]
+	path = ros_vrpn_client
+	url = https://github.com/uf-reef-avl/ros_vrpn_client
